@@ -12,8 +12,8 @@
 
 ## Week 1: Introduction and Basics
 
-### Class 1: Introduction to iCodeGuru and Programming Basics
-- Introduction of iCodeGuru
+### Class 1: Introduction to Sumahim and Programming Basics
+- Introduction of Sumahim
 - What is a programming language?
 - Installing IDE (Integrated Development Environment)
 
