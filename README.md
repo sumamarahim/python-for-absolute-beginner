@@ -4,18 +4,18 @@
 # Course Outlines
 ## Week 1: Introduction and Basics
 ### Class 1: Intro
-** Intro to Sumahim Institute
-** Intro to Programming
-** IDE installing
+** Intro to Sumahim Institute <br/>
+** Intro to Programming<br/>
+** IDE installing<br/>
 
 ### Class 2: Pythong Syntax and Basic Concepts
-** Python Syntax
-** Comments
-** Reserved Words or Keywords
-** Rules for assigning names to variables
+** Python Syntax<br/>
+** Comments<br/>
+** Reserved Words or Keywords<br/>
+** Rules for assigning names to variables<br/>
 ### Class 3: Python Variables
-** Types of variables names cases
-** Assigning values to variables
-** Multiple values to multiple variables
-** One value to multile variables
-** Getting the address of a varriable
+** Types of variables names cases<br/>
+** Assigning values to variables<br/>
+** Multiple values to multiple variables<br/>
+** One value to multile variables<br/>
+** Getting the address of a varriable<br/>
